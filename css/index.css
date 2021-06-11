@@ -148,12 +148,15 @@ button:hover{
     /*HEADER STYLES */
     nav{
         width: 40%;
+        margin-bottom: 3%;
     }
     /*Title Section Styles*/
     .title-container div {
         height:30vh;
         background-size: cover;
         background-repeat: no-repeat;
+        margin: 2% 0;
+
     }
     /*Artists Section Styles */
     .artists-container{
@@ -161,12 +164,13 @@ button:hover{
         align-items: center;
     }
     .artist{
-        width:90%;
+        width:91%;
         text-align:center;
     }
     .artist img{
         width:80%;
-        height:80%
+        height:80%;
+        margin-bottom: 5%;
     }
     
 }
