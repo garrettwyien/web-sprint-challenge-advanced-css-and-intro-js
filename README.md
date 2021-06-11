@@ -29,9 +29,10 @@ Accessibility refers to the ease of visitors and fellow coders to navigate your 
 3 ways to make your website accessible are: 1. making your website adapt to different screen sizes and devices through media queries, 2. using semantic tags to make your code easy to read through and intuitive, and 3. including good markup in your code to provide reference and explanation for particulars. 
 
 3. How would you explain the concept of a variable to someone new to programming?
-A variable in Javascript is a 
+A variable in Javascript allows for the storage, change, and usage of data in our code. There are some variables that are preset in JS, but there are an infinite amount of variables that we as programmers can declare and assign values or functions to to fit our website's needs. 
 
 4. What is the purpose of using functions in code?
+A function can be written to read, change, and print data across variables that can help us apply a particular process at multiple places on a website without having to write out that process at each instance. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
@@ -53,8 +54,8 @@ NOTE: Tests will run for the JavaScript portion of this challenge only
 
 *Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
 
-* [ ] Add a viewport meta tag to the head of your index.html page.
-* [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
+* [x] Add a viewport meta tag to the head of your index.html page.
+* [x] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
 
 ### Task 2b: Minimum Viable Product - JavaScript
 
