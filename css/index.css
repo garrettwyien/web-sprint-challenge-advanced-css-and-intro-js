@@ -138,5 +138,35 @@ button:hover{
 
 /* Mobile Responsive Styles */
 @media(max-width: 500px){
-
+    /*GENERAL STYLES*/
+    html{
+        font-size:40%;
+    }
+    body{
+        line-height: 1;
+    }
+    /*HEADER STYLES */
+    nav{
+        width: 40%;
+    }
+    /*Title Section Styles*/
+    .title-container div {
+        height:30vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    /*Artists Section Styles */
+    .artists-container{
+        flex-direction: column;
+        align-items: center;
+    }
+    .artist{
+        width:90%;
+        text-align:center;
+    }
+    .artist img{
+        width:80%;
+        height:80%
+    }
+    
 }
